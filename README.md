@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+MariyaV Thomas;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
 
-  ![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-developer&psig=AOvVaw2Dc9Bi1H1Z4pu9XCPwla8-&ust=1719576001099000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjL1NmG-4YDFQAAAAAdAAAAABAE)
+  ![banner](https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1719489675~exp=1719493275~hmac=15c991c57d8b2de8869ed30ea56ceedca2d3f026dba50d4a15d39a7ce2b9b818&w=740)
 
 <br>
 <!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
