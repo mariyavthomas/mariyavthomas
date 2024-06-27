@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+MariyaV Thomas;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
 
-  ![banner](https://img.freepik.com/free-photo/3d-rendering-astronaut_23-2151432351.jpg?t=st=1719489241~exp=1719492841~hmac=0014c3d7eac882ffde0862fac51dd77b7ffe7e0202b7b2c98926115b0e40f18c&w=996)
+  ![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-developer&psig=AOvVaw2Dc9Bi1H1Z4pu9XCPwla8-&ust=1719576001099000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjL1NmG-4YDFQAAAAAdAAAAABAE)
 
 <br>
 <!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
