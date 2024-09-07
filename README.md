@@ -29,13 +29,11 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/akhil-raj-0b9365284/">
+   <a target="_blank" href="https://www.linkedin.com/in/mariya-v-thomas/">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a target="_blank" href="https://www.instagram.com/4._khil._/">
-  <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-   <a target="_blank" href="mailto:akhilraj20801@gmail.com">
+  
+   <a target="_blank" href="mailto:mariyavthomas2019@gmail.com">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
@@ -54,7 +52,7 @@
 
 
 <!--
-**Alto-b/Alto-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mariyavthomas/mariyavthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
