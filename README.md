@@ -4,14 +4,17 @@
   <div align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+MariyaV Thomas;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
   </div>
-
-  ![banner](https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)
+ <div align="center" >
+@@ -8,7 +8,7 @@
+  ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b)
 
 <br>
+<img src="https://ivanluna.dev/images/banner.png"><br><br>
 <!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
- 
+
 <br>
+
    
    
 
